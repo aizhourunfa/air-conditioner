@@ -7,7 +7,7 @@ const Copyright: React.FC = () => {
         © 云游君
       </div>
       <div className="ac-text flex justify-center items-center m-2">
-        由周润发维护： 
+        周润发： 
         <a
           href="https://blog.zrf.me/"
           target="_blank"
