@@ -6,9 +6,9 @@
   "packageManager": "pnpm@9.15.2",
   "description": "云空调，便携小空调",
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "https://blog.zrf.me/",
+    "email": "zrf@zrf.me",
+    "name": "周润发"
   },
   "homepage": "https://ac.yunyoujun.cn/",
   "repository": {
