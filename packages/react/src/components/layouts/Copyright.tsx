@@ -7,12 +7,11 @@ const Copyright: React.FC = () => {
         © 云游君
       </div>
       <div className="ac-text flex justify-center items-center m-2">
-        博客： 
         <a
           href="https://blog.zrf.me/"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:underline ml-1 text-blue-500"
+          className="hover:underline text-blue-500"
         >
           周润发
         </a>
